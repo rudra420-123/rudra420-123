@@ -1,7 +1,7 @@
 ![logo](https://github.com/rudra420-123/rudra420-123/blob/main/Banner.png)
 ## Hi, I'm Rudra Prasad Nayak! 👋
 ## Passionate Full-Stack Web Developer
-#### Open-Source Contributor • Programmer • Developer • Cloud Enthusiastic
+#### Open-Source Contributor • Programmer • Developer
 
 - 😄 Pronouns: He/Him
 - 🌱 Currently exploring MERN Stack
@@ -11,12 +11,9 @@
 
 ## ⚙️ Techstack:
 * HTML, CSS, JavaScript, React
-* Tailwind CSS, Bootstrap
+* Bootstrap
 * Git & GitHub
-* Node.js and Express.js
-* RESTAPIs
-* MongoDB - Database Management
-* Firebase, Vercel, Netlify - Deployment 
+* Netlify - Deployment 
 
 ---
 
