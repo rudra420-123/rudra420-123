@@ -7,7 +7,7 @@
 - 🌱 Currently exploring MERN Stack
 - 🧑‍💻 Self-taught Developer
 - 📖 Interested in Open Source Contribution
-- 📧 Contact : kumarspranab19@gmail.com
+- 📧 Contact : rudraprasadnayak728@gmail.com
 
 ## ⚙️ Techstack:
 * HTML, CSS, JavaScript, React
