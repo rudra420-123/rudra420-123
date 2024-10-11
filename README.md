@@ -237,15 +237,6 @@
 <td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudra420-123&theme=github_dark"/></td>
 </tr>
 <tr align="center">
-<td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudra420-123&theme=github_dark"/></td>
-</tr>
-<tr align="center">
 <td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra420-123&" alt="rudra420-123" /></td>
 </tr>
 </table>
-
- <p align="center">
-  <h1 align="center">Summary Of My Github Live Graph</h1>
-</p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra420-123&theme=github_dark)
