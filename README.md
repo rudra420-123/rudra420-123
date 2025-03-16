@@ -1,10 +1,16 @@
-![logo](https://github.com/rudra420-123/rudra420-123/blob/main/Banner.png)
+![logo](./assets/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rudra Prasad Nayak</h1>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D61AA&width=435&lines=Eat+-+Sleep+-+Code+-+Repeat" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Think+-+Code+-+Debug+-+Deploy+-+Loop" alt="Typing SVG" /></a></p>
 
-![Example SVG](dots.svg)
+![Example SVG](./assets/Snake.svg)
+
+<div align="center">
+
+> ## 🌟 "Code With Passion - Debug With Patience - Deploy With Pride." 🌟
+
+</div>
 
 <table align="right">
     <tbody><tr><td><a target="_blank" rel="noopener noreferrer" href="https://github.com/milaan9/milaan9/blob/main/3898082.svg"><img src="https://github.com/milaan9/milaan9/raw/main/3898082.svg" width="25" style="max-width: 100%;"></a> Languages</td></tr>
@@ -13,206 +19,441 @@
     <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Odia ★★★★★</a></td></tr>
 </tbody></table>
 
-- 💻 Open-Source Contributor • Programmer • Developer
+### 🚀 **Open-Source Contributor | Full-Stack Developer | MERN Stack Enthusiast**
 
-- 😚 I'm a full-stack developer and Web Designer.
-- 😄 Pronouns: He/Him
-- 👀 I’m interested in HTML, CSS, SCSS, JS and React js.
-- 🌱 I'm currently exploring on MERN Stack.
-- 🌱 I did BCA under Berhampur University, Odisha and learnt various Online Courses.
-- 🌱 I’m currently learning **React and ExpressJS**
-- 🧑 I'm a Self-taught Developer.
-- 👨‍💻 All of my projects are available at [Github](https://github.com/rudra420-123/).
-- 💬 Ask me about **HTML, CSS, JS, React, Typescript**
-- 📖 Interested in Open Source Contribution
-- 📧 Email ID : rudraprasadnayak728@gmail.com
+👨‍💻 **Who Am I?**
 
-## ⚙️ Techstack:
+- A passionate **full-stack developer** and **web designer**.
+- Pronouns: **He/Him**.
 
-- HTML, CSS, JavaScript, React, TypeScript
-- Bootstrap, Material UI, Tailwind CSS,
-- Git & GitHub
-- Netlify - Deployment
+💡 **What I Do?**
+
+- Skilled in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **ReactJS**.
+- Currently exploring the **MERN Stack** with a focus on **React** and **ExpressJS**.
+- Proud **BCA Graduate** from **Berhampur University, Odisha** with additional knowledge from various online courses.
+
+🧠 **Learning & Growth**
+
+- A **Self-Taught Developer** who thrives on learning and improving.
+
+📂 **Projects & Contributions**
+
+- Check out my projects on **[GitHub](https://github.com/rudra420-123/)**.
+
+💬 **Ask Me About:**
+
+- **HTML**, **CSS**, **JavaScript**, **ReactJs**, and **TypeScript**.
+
+🌍 **Community Involvement**
+
+- Always excited about **Open Source Contributions**.
+
+📧 **Get in Touch:**
+
+- **rudraprasadnayak728@gmail.com**
 
 ---
 
-## 🌐 Socials:
+# ⚙️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra420-123420/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RudraPrasad728)
+### 🖥️ **Frontend:** HTML, CSS, JavaScript, ReactJS, TypeScript
 
-<h2 align="left" id="rudra420-123">Dev-Hub</h2>
+### 🔙 **Backend:** NodeJS, ExpressJS, Django, Flask
 
-> Progamming languages
+### 📦 **Frameworks & Libraries:** Bootstrap, Material UI, Tailwind CSS, SCSS, NumPy, Pandas
+
+### 🚀 **Deployment & Tools:** Git & GitHub, Netlify, Heroku, Vercel
+
+### 💻 **Programming Languages:** C, C++, Java, Python, PHP
+
+### 🐧 **Operating Systems:** Android, Windows, Linux
+
+---
+
+# 🌐 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rudra420-123420/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/rudra420-123/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/RudraPrasad728" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/your_instagram_handle/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/your_facebook_handle/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
+---
+
+<h2 align="left" id="rudra420-123">🚀 Development-Hub 🚀</h2>
+
+> ## Programming Languages
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="bash.png" width="48" height="48" alt="#" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center"width="96">
-      <a href="#">
-        <img src="python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="c.png" width="48" height="48" alt="c" />
+        <img src="./assets/TechImages/C.png" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="c++.png" width="48" height="48" alt="Jsonnet" />
+        <img src="./assets/TechImages/C++.png" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
-    <td align="center" width="96">
+    <td align="center"width="96">
       <a href="#">
-        <img src="m.png" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/TechImages/Java.png" width="48" height="48" alt="Java" />
       </a>
-      <br>markdown
+      <br>Java
+    </td>
+    <td align="center"width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Pyhon.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="html.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>HTML
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="sql.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>SQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="power.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="php.png" width="48" height="48" alt="PHP" />
+        <img src="./assets/TechImages/Php.png" width="48" height="48" alt="Php" />
       </a>
       <br>PHP
     </td>
-    </tr>
+  </tr>
 </table>
 
-> Frameworks and libraries
+> ## Frontend Technologies
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="bootstrap-plain.svg" width="48" height="48" alt="Python" />
+        <img src="./assets/TechImages/Html.png" width="48" height="48" alt="Html" />
       </a>
-      <br>bootstrap
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="react-original.svg" width="48" height="48" alt="react" />
+        <img src="./assets/TechImages/Css.png" width="48" height="48" alt="Css" />
       </a>
-      <br>React
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="github.png" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/TechImages/Javascript.png" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>GitHub-Action
+      <br>JavaScript
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
-        <img src="wordpress.png" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/TechImages/Typescript.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Wordpress
+      <br>TypeScript
     </td>
-    </tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/React.png" width="48" height="48" alt="ReactJs" />
+      </a>
+      <br>ReactJs
+    </td>
+  </tr>
 </table>
 
-> Databases and cloud hosting
+> ## Backend Technologies
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="github.png" width="48" height="48" alt="C#" />
+        <img src="./assets/TechImages/Node.png" width="48" height="48" alt="Node" />
       </a>
-      <br>GitHub Page
+      <br>NodeJs
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="mysql-original.svg" width="48" height="48" alt="Python" />
+        <img src="./assets/TechImages/Express.png" width="48" height="48" alt="Express" />
       </a>
-      <br>my-sql
+      <br>ExpressJs
     </td>
-    </tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Django.png" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Flask.png" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>    
+  </tr>
 </table>
 
-> operating system
+> ## Frameworks and Libraries
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="windo.png" width="48" height="48" alt="C#" />
+        <img src="./assets/TechImages/Bootstrap.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Tailwind.png" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Scss.png" width="48" height="48" alt="Scss" />
+      </a>
+      <br>SCSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Material.png" width="48" height="48" alt="MaterialUi" />
+      </a>
+      <br>Material Ui
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/NumPy.png" width="48" height="48" alt="NumPy" />
+      </a>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Pandas.png" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>     
+  </tr>
+</table>
+
+> ## Databases
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Sql.png" width="48" height="48" alt="Sql" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/MySql.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Mongodb.png" width="48" height="48" alt="Mongodb" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Plsql.png" width="48" height="48" alt="Pl/SQL" />
+      </a>
+      <br>PL/SQL
+    </td>
+  </tr>
+</table>
+
+> ## Operating Systems
+
+<table>
+  <tr>
+  <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Android.png" width="48" height="48" alt="Android" />
+      </a>
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Windows.png" width="48" height="48" alt="Windows" />
       </a>
       <br>Windows
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="kali.png" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/TechImages/Kali.png" width="48" height="48" alt="Linux" />
       </a>
-      <br>kali
+      <br>Linux
+    </td>
+    <!-- <td align="center" width="96">
+      <a href="#">
+        <img src="crom.png" width="48" height="48" alt="Chrome" />
+      </a>
+      <br>Chrome
+    </td> -->
+    </tr>
+</table>
+
+> ## Softwares and Tools
+
+<table>
+  <tr>  
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/VsCode.png" width="48" height="48" alt="VS-Code" />
+      </a>
+      <br>Visual Studio Code
+    </td> 
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Pycharm.png" width="48" height="48" alt="PyCharm" />
+      </a>
+      <br>PyCharm IDE
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="ando.png" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/TechImages/Pyscripter.png" width="48" height="48" alt="PyScripter" />
       </a>
-      <br>android
+      <br>PyScripter
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="crom.png" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/TechImages/Jupyter.png" width="48" height="48" alt="Jupyter" />
       </a>
-      <br>Chrome OS
+      <br>Jupyter Notebook
+    </td>
+      <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Postman.png" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Sublime.png" width="48" height="48" alt="Sublime" />
+      </a>
+      <br>Sublime
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Cursor.png" width="48" height="48" alt="Cursor" />
+      </a>
+      <br>Cursor
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Docker.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
     </td>
     </tr>
 </table>
 
-> Software and tools
+> ## Deployment Tools
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="git.png" width="48" height="48" alt="Git" />
+        <img src="./assets/TechImages/Git.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="vs.png" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/TechImages/Github.png" width="48" height="48" alt="GitHub" />
       </a>
-      <br>Visual Studio
+      <br>GitHub
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="jnote.png" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/TechImages/Netlify.png" width="48" height="48" alt="Netlify" />
       </a>
-      <br>Jupyter Notebook
+      <br>Netlify
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="sublime.png" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/TechImages/Heroku.png" width="48" height="48" alt="Heroku" />
       </a>
-      <br>Sublime
+      <br>Heroku
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Vercel.png" width="48" height="48" alt="Vercel" />
+      </a>
+      <br>Vercel
+    </td>
+  </tr>
+</table>
+
+> ## Designing Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Figma.png" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Canva.png" width="48" height="48" alt="Canva" />
+      </a>
+      <br>Canva
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Photoshop.png" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Wordpress.png" width="48" height="48" alt="Wordpress" />
+      </a>
+      <br>Wordpress
+    </td>
+  </tr>
+</table>
+
+> ## Command Line & Scripting
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Cmd.png" width="48" height="48" alt="CMD" />
+      </a>
+      <br>CMD
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Bash.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Powershell.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/TechImages/Markdown.png" width="48" height="48" alt="Markdown" />
+      </a>
+      <br>Markdown
     </td>
     </tr>
 </table>
