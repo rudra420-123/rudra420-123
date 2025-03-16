@@ -19,7 +19,7 @@
     <tr><td><a href="/milaan9/milaan9/blob/main/README_pt.md"><img src="https://github.com/milaan9/milaan9/raw/main/3909444.svg" height="15" style="max-width: 100%;"> Odia ★★★★★</a></td></tr>
 </tbody></table>
 
-### 🚀 **Open-Source Contributor | Full-Stack Developer | MERN Stack Enthusiast**
+### 🚀 **Open-Source Contributor | Full-Stack Developer | MERN Stack Enthusiast | Python Developer**
 
 👨‍💻 **Who Am I?**
 
